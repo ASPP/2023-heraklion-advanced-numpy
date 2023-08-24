@@ -16,7 +16,7 @@ Each notebook contains explanatory text + some exercises. Solutions can be found
 
 ## Extra material and further resources
 
-- [Notebook on all the possible ways of indexing](extra-material/indexing.ipynb)
+- [Notebook on all the possible ways of indexing](extra-material/indexing.ipynb). From Lisa Schwetlick.
 - [Numpy chapter in "Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 - Scipy lecture notes
   - [Basic Numpy](http://scipy-lectures.org/intro/numpy/index.html)
