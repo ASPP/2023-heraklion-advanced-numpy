@@ -12,6 +12,8 @@
 
 Each notebook contains explanatory text + some exercises. Solutions can be found inside folder ```solutions```.
 
+Tool to do slides with jupyter notebooks - [RISE](https://rise.readthedocs.io/en/stable/installation.html)
+
 ---
 
 ## Extra material and further resources
