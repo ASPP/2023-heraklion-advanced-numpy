@@ -23,6 +23,7 @@ Each notebook contains explanatory text + some exercises. Solutions can be found
   - [Advanced Numpy](http://scipy-lectures.org/advanced/advanced_numpy/index.html)
 - [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
 - [Difference between Deep Copy and Shallow Copy in Python](https://www.shiksha.com/online-courses/articles/difference-between-deep-copy-and-shallow-copy-in-python/)
+- [An Illustrated Guide to Shape and Strides](https://ajcr.net/stride-guide-part-1/)
  
 - [Numpy tutorial by Nicolas Rougier](https://github.com/rougier/numpy-tutorial). Several exercises, includes good visualizations of broadcasting
 
